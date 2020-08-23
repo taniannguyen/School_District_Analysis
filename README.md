@@ -46,6 +46,13 @@ How does replacing the ninth-grade scores affect the following:
      Revised Math Score by Grade
      
      ![Revised Math Score](Images/math_scores_bygrade_revised.png)
+     
+     Original Reading Score by Grade
+     ![Original Reading Score](Images/reading_score_bygrade_original.png)
+     
+     Revised Reading Score by Grade
+     
+     ![Revised Reading Score](Images/reading_score_bygrade_revised.png)
       
      
  - Scores by school spending
