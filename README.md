@@ -41,7 +41,7 @@ How does replacing the ninth-grade scores affect the following:
    - Replacing the ninth-grade scores caused a NaN to appear for grade 9, but there were no changes for the rest of the grades.
       
      Original Math Score by Grade
-     ![Original Math Score](Images/math_score_bygrade_original.png)
+     ![Original Math Score](Images/math_scores_bygrade_original.png)
       
      Revised Math Score by Grade
      
