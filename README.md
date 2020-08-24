@@ -7,7 +7,7 @@ The purpose of this analysis is to assist Maria who is the chief data scientist 
 ## Results
 
 - How is the district summary affected?
-  - There were no change in the district summary from the change that was done on the dataset.
+  - There were no changes in the district summary from the change that was done on the dataset.
   
 Original District Summary without Change
 ![Original District Summary](Images/district_summary_df_original.png)
@@ -92,5 +92,4 @@ How does replacing the ninth-grade scores affect the following:
 
 
 ## Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-The four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs were math averages decreased by 
+The four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs were math averages decreased approximately by 0.06, reading averages increased approximately by 0.05, percentage of passing math decreased approximately by 26.36, percentage of passing reading decreased by 27.64, and percentage of passing overall decreased by 25.87. These results conclude that the grades have been altered for ninth-grade in Thomas High School in which skewed the original data analysis. Thomas High School would fall out of the top 5 schools and underperform compared to the other schools.
