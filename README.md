@@ -56,6 +56,15 @@ How does replacing the ninth-grade scores affect the following:
       
      
  - Scores by school spending
+   - There were no changes on the scores by school spending when replacing the ninth-grade scores.
+   
+     Original School Spending by Score
+     ![Original School Spending](Images/school_spending_original.png)
+     
+     Revised School Spending by Score
+     ![Revised School Spending](Images/school_spending_revised.png)
+     
+     
  - Scores by school size
  - Scores by school type
 
