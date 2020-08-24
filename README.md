@@ -80,6 +80,15 @@ How does replacing the ninth-grade scores affect the following:
       
       
  - Scores by school type
+   - There were no changes in the scores by school type when replacing the ninth-grade scores with NaN.
+   
+     Original School Type by Score
+     ![Original School Type](Images/school_type_original.png)
+     
+     Revised School Type by Score (only 10th-12th for Thomas High School)
+     ![Revised School Type](Images/school_type_revised.png)
+     
+     
 
 
 ## Summary
