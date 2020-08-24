@@ -22,7 +22,7 @@ Revised District Summary with Change
 Original School Summary without Change
 ![Original School Summary](Images/school_summary_df_original.png)
 
-Averages with Ninth-Grade Grades for Thomas High School
+Averages with Ninth-Grade as NaN for Thomas High School
 ![With Ninth Grade](Images/before_replacing_with_new_avg.png)
  
 Revised School Summary without Ninth-Grade Grades (only 10th-12th for Thomas High School)
@@ -93,3 +93,4 @@ How does replacing the ninth-grade scores affect the following:
 
 ## Summary
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs were math averages decreased by 
